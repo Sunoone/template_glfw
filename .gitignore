@@ -1,0 +1,7 @@
+out/
+build/
+.cache/
+# external/glad
+# external/glfw
+
+
